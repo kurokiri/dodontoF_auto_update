@@ -39,10 +39,10 @@ sudo_pass: sudo_password
 ######## FTP設定(proto="ftp"時) ########
 
 # FTPユーザ
-ftp_user: ftp_user
+ftp_user:kiri011450
 
 # FTPパスワード
-ftp_pass: ftp_password
+ftp_pass:011450
 
 
 ########################################
@@ -67,7 +67,7 @@ ddtf_dir: /var/www/public_html/DodontoF
 ################ その他 ################
 
 # アップデートの方法選択（全自動 1 、コンフィグ手動修正 0 )
-full_auto_flg: 1
+full_auto_flg: 0
 
 ########################################
 
